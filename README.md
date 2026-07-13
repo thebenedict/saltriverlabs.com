@@ -1,7 +1,6 @@
 # saltriverlabs.com
 
-Bare-bones static landing page for Salt River Labs, LLC.
+Static landing page for Salt River Labs, LLC.
 
-## GitHub Pages
+www.saltriverlabs.com
 
-Publish the repository from the `main` branch and the `/ (root)` directory.
